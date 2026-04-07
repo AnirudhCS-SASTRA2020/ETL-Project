@@ -4,5 +4,3 @@ sqlite3
 sqlalchemy
 requests
 psycopg2
-boto3
-pytest
